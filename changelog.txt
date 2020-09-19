@@ -1,0 +1,9 @@
+Version: 1.1.0
+  - Updated the PHP Email Form to v2.1
+  - Other small fixes and improvements
+
+Version: 1.0.1
+  - Fix smooth scroll position
+
+Version: 1.0.0
+  - Initial Release
